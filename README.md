@@ -5,7 +5,7 @@
 
 ## Clone with 
 ```console
-git clone --depth 1 https://github.com/zDyanTB/aesthic-wallpapers 
+git clone --depth 1 https://github.com/Twilight4/wallpapers 
 ```
 
 ## Sources:
